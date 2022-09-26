@@ -7,10 +7,9 @@ redirect_from:
 ---
 
 ## About me
----
 
 ### Work experience
----
+***
 
 * 2019-2023: PhD student
   * University of Cambridge
@@ -20,7 +19,7 @@ redirect_from:
 
 
 ### Education
----
+***
 
 * B.S. in Aerospace Engineering, Universita' di Pisa, 2016
 * M.S. in Space Engineering, Universita' di Pisa, 2019
