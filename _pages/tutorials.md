@@ -10,7 +10,7 @@ author_profile: true
 ### Echo State Networks
 
 <p align='center'>
-<img src="../files/ENS_loop.png"/>
+<img src="../files/ESN_loop.png"/>
 </p>
 
 Echo State Networks (ESNs) are a type of recurrent neural network, whose training consists in solving a linear system and does not require gradient descent [1,2]. ESNs have been shown to perform with similar accuracy to other reccurrent neural networks, such as LSTMs and GRUs [3]. 
@@ -29,7 +29,7 @@ We test the networks on the chaotic Lorenz system.
 
 ## References 
 
-- [1] Jaeger, H. http://www.scholarpedia.org/w/index.php?title=Echo_state_network
+- [1] Jaeger, H. [Scholarpedia](http://www.scholarpedia.org/w/index.php?title=Echo_state_network)
 
 - [2] Lukoševičius, M. A Practical Guide to Applying Echo State Networks, pp. 659–686 (2012). Springer Berlin Heidelberg. 
 
