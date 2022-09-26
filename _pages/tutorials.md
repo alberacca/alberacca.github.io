@@ -21,7 +21,7 @@ In this [tutorial](https://github.com/aracca994/Echo-State-Networks), we provide
 We test the networks on the chaotic Lorenz system.  
 
 
-## Computation of Lyapunov Spectrum and Kaplan-Yorke dimension
+## Computation of the Lyapunov spectrum and Kaplan-Yorke dimension
 
 In chaotic systems, the dynamics are predictable only for finite times. This happens because infinitesimal errors in the prediction of the system increase in time with an average exponential rate given by the (positive) largest Lyapunov exponent of the system.
 
