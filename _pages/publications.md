@@ -13,7 +13,8 @@ Data-Driven Prediction and control of extreme events in a chaotic flow, _Physica
 preprint: [arXiv](https://arxiv.org/abs/2204.11682). Repository: [GitHub](https://github.com/MagriLab/ESN-MFE).
 
 __A. Racca__, L. Magri  
-Data-Driven Prediction and control of extreme events in a chaotic flow, _Lecture Notes in Computer Science / ICCS_, 2022.  
+Statistical prediction of extreme events from small datasets, _Lecture Notes in Computer Science / ICCS_, 2022.  
+preprint: [arXiv](https://arxiv.org/abs/2201.08294). Repository: [GitHub](https://github.com/MagriLab/ESN-MFE).
 
 __A. Racca__, L. Magri  
 Robust Optimization and Validation of Echo State Networks for learning chaotic dynamics, _Neural Networks_, 2021.  
