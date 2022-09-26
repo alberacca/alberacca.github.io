@@ -9,3 +9,9 @@ redirect_from:
 ---
 
 This is my site.
+
+---
+title: "Short CV"
+---
+
+
