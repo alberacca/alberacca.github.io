@@ -23,7 +23,11 @@ We test the networks on the chaotic Lorenz system.
 
 ## Computation of Lyapunov Spectrum and Kaplan-Yorke dimension
 
+In chaotic systems, the dynamics are predictable only for finite times. This happens because infinitesimal errors in the prediction of the system increase in time with an average exponential rate given by the (positive) largest Lyapunov exponent, $\lambda_1$.
 
+The dynamics of infinitesimal errors, namely tangent space dynamics, are defined by the entire set of Lyapunov exponents, the Lyapunov spectrum. Through the Lyapunov spectrum, the dimensionality of the solution, which is typically significantly smaller than the number of degrees of freedom can be estimated by the Kaplan-Yorke conjecture [5]. 
+
+In this [tutorial](https://github.com/aracca994/Lyapunov-spectrum), we provide a Jacobian-free algorithm to compute the Lyapunov spectrum and the Kaplan-Yorke dimension of dynamical systems. 
 
 
 # References 
@@ -35,3 +39,5 @@ We test the networks on the chaotic Lorenz system.
 - [3] P.R. Vlachas et al., Backpropagation algorithms and Reservoir Computing in Recurrent Neural Networks for the forecasting of complex spatiotemporal dynamics, Neural Networks (2020).
 
 - [4] A. Racca & L. Magri, 2021 Robust Optimization and Validation of Echo State Networks for learning chaotic dynamics, Neural Networks (2021).
+
+- [5] J. Kaplan & J. Yorke, Chaotic behavior of multidimensional difference equations, Lecture Notes in Mathematics (1979).
