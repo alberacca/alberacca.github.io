@@ -19,7 +19,7 @@ A tutorial with up to date self-containted implementation of echo state networks
 
 Training ESNs is straightforward, but their performance is highly sensitive to the selection of hyperparameters. 
 In the tutorial, we provide an easy to follow and computationally efficient implementation of hyperparameter selection through Bayesian Optimization [4].
-We test the networks on the chaotic Lorenz system.
+We test the networks on the chaotic Lorenz system.  
 
 
 ### Computation of Lyapunov Spectrum and Kaplan-Yorke dimension
