@@ -21,7 +21,7 @@ preprint: [arXiv](https://arxiv.org/abs/2103.03174v2). Repository: [GitHub](http
 
 __A. Racca__, L. Magri  
 Data-Driven Prediction and control of extreme events in a chaotic flow, _Lecture Notes in Computer Science / ICCS_, 2021.  
-preprint: [arXiv](https://arxiv.org/abs/2103.03174v2). Repository: [GitHub](https://github.com/MagriLab/Robust-Validation-ESN).
+preprint: [arXiv](https://arxiv.org/abs/2103.03174v2). Repository: [GitHub](https://github.com/MagriLab/API-ESN).
 
 <!---
 {% include base_path %}
