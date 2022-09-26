@@ -13,10 +13,12 @@ author_profile: true
 
 Echo State Networks (ESNs) are a type of recurrent neural network, whose training consists in solving a linear system and does not require gradient descent [1,2]. ESNs have been shown to perform with similar accuracy to other reccurrent neural networks, such as LSTMs and GRUs [3]. 
 
-A tutorial with up to date self-containted implementation of echo state networks can be found [here](https://github.com/aracca994/Echo-State-Networks).
+A tutorial with up to date self-containted implementation of echo state networks can be found 
 
 Training ESNs is straightforward, but their performance is highly sensitive to the selection of hyperparameters.
-We (i) provide an easy-to-follow and computationally efficient implementation of hyperparameter selection through Bayesian Optimization [4] and (ii) use sparse matrix multiplication to improve computation efficiency and lower memory requirements.
+In this [tutorial](https://github.com/aracca994/Echo-State-Networks) we provide an up to date self-containted implementation of echo state networks with
+ * an easy-to-follow and computationally efficient implementation of hyperparameter selection through Bayesian Optimization [4],
+ * sparse matrix multiplication to improve computation efficiency and lower memory requirements.
 
 We test the networks on the chaotic Lorenz system.  
 
