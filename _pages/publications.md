@@ -27,7 +27,7 @@ Automatic-differentiated Physics-Informed Echo State Network (API-ESN), _Lecture
 Preprint: [arXiv](https://arxiv.org/abs/2101.00002), repository: [GitHub](https://github.com/MagriLab/API-ESN).
 
 <!---
-{% include base_path %}
+{% include base_path %} 
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
