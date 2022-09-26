@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alberto Racca"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Alberto Racca"
 description              : &description "PhD in Machine Learning, University of Cambridge"
