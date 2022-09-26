@@ -10,11 +10,12 @@ redirect_from:
 
 This is my site.
 
----
 
-title: "Short CV"
-
----
+Education
+======
+* B.S. in Aerospace Engineering, Universita' di Pisa, 2016
+* M.S. in Space Engineering, Universita' di Pisa, 2019
+* Ph.D in Machine Learning, University of Cambridge, 2023 (expected)
 
 
 
