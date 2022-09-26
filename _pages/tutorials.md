@@ -30,7 +30,7 @@ The dynamics of infinitesimal errors, namely tangent space dynamics, are defined
 In this [tutorial](https://github.com/aracca994/Lyapunov-spectrum), we provide a Jacobian-free algorithm to compute the n largest Lyapunov exponents and the Kaplan-Yorke dimension of dynamical systems. 
 
 
-# References 
+### References 
 
 - [1] H. Jaeger, [Scholarpedia](http://www.scholarpedia.org/w/index.php?title=Echo_state_network).
 
