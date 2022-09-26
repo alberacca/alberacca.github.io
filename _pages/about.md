@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +7,12 @@ redirect_from:
   - /about.html
 ---
 
+## About me
+
+
 This is my site.
 
-Work experience
+### Work experience
 ======
 * 2019-2023: PhD student
   * University of Cambridge
@@ -19,7 +21,7 @@ Work experience
   * University of Illinois at Urbana-Champaign
 
 
-Education
+### Education
 ======
 * B.S. in Aerospace Engineering, Universita' di Pisa, 2016
 * M.S. in Space Engineering, Universita' di Pisa, 2019
