@@ -14,7 +14,7 @@ author_profile: true
 Echo State Networks (ESNs) are a type of recurrent neural network, whose training consists in solving a linear system and does not require gradient descent [1,2]. ESNs have been shown to time-accurately predict dynamical systems with similar accuracy to other reccurrent neural networks, such as LSTMs and GRUs [3]. 
 
 Training ESNs is straightforward, but their performance is highly sensitive to the selection of hyperparameters.
-In this [tutorial](https://github.com/aracca994/Echo-State-Networks), we provide a self-containted implementation of echo state networks with
+In this [tutorial](https://github.com/alberacca/Echo-State-Networks), we provide a self-containted implementation of echo state networks with
  * an easy-to-follow and computationally efficient implementation of hyperparameter selection through Bayesian Optimization [4],
  * sparse matrix multiplication to improve computation efficiency and lower memory requirements.
 
@@ -27,7 +27,7 @@ In chaotic systems, the dynamics are predictable only for finite times. This hap
 
 The dynamics of infinitesimal errors are characterized by the entire set of Lyapunov exponents, the Lyapunov spectrum. Through the Lyapunov spectrum, the dimensionality of the solution, which is typically significantly smaller than the number of degrees of freedom of the system, can be estimated by the Kaplan-Yorke conjecture [5]. 
 
-In this [tutorial](https://github.com/aracca994/Lyapunov-spectrum), we provide a Jacobian-free algorithm to compute the n largest Lyapunov exponents and the Kaplan-Yorke dimension of dynamical systems. 
+In this [tutorial](https://github.com/alberacca/Lyapunov-spectrum), we provide a Jacobian-free algorithm to compute the n largest Lyapunov exponents and the Kaplan-Yorke dimension of dynamical systems. 
 
 
 ### References 
