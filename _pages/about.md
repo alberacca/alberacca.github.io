@@ -10,6 +10,14 @@ redirect_from:
 
 This is my site.
 
+Work experience
+======
+* 2019-2023: PhD student
+  * University of Cambridge
+
+* 2018-2019: Research Assistant
+  * University of Illinois at Urbana-Champaign
+
 
 Education
 ======
