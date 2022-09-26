@@ -5,9 +5,7 @@ permalink: /tutorials/
 author_profile: true
 ---
 
-## Tutorials
-
-### Echo State Networks
+## Echo State Networks
 
 <p align='center'>
 <img src="../files/ESN_loop.png" style="width:600px">
@@ -23,12 +21,12 @@ For matrix multiplication, we use sparse implementation to improve computation e
 We test the networks on the chaotic Lorenz system.  
 
 
-### Computation of Lyapunov Spectrum and Kaplan-Yorke dimension
+## Computation of Lyapunov Spectrum and Kaplan-Yorke dimension
 
 
 
 
-## References 
+# References 
 
 - [1] H. Jaeger, [Scholarpedia](http://www.scholarpedia.org/w/index.php?title=Echo_state_network).
 
