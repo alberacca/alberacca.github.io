@@ -30,10 +30,10 @@ We test the networks on the chaotic Lorenz system.
 
 ## References 
 
-- [1] Jaeger, H. [Scholarpedia](http://www.scholarpedia.org/w/index.php?title=Echo_state_network)
+- [1] H. Jaeger, [Scholarpedia](http://www.scholarpedia.org/w/index.php?title=Echo_state_network).
 
-- [2] Lukoševičius, M. A Practical Guide to Applying Echo State Networks, pp. 659–686 (2012). Springer Berlin Heidelberg. 
+- [2] M. Lukoševičius, A Practical Guide to Applying Echo State Networks, pp. 659–686 (2012). Springer Berlin Heidelberg. 
 
-- [3] Vlachas et al., Backpropagation algorithms and Reservoir Computing in Recurrent Neural Networks for the forecasting of complex spatiotemporal dynamics, Neural Networks (2020).
+- [3] P.R. Vlachas et al., Backpropagation algorithms and Reservoir Computing in Recurrent Neural Networks for the forecasting of complex spatiotemporal dynamics, Neural Networks (2020).
 
-- [4] Racca, A. & Magri, L. 2021 Robust Optimization and Validation of Echo State Networks for learning chaotic dynamics, Neural Networks (2021).
+- [4] A. Racca & L. Magri, 2021 Robust Optimization and Validation of Echo State Networks for learning chaotic dynamics, Neural Networks (2021).
