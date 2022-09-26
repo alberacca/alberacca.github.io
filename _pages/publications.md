@@ -1,9 +1,11 @@
 ---
 layout: archive
-title: "Selected Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
+
+## Selected Publications
 
 You can find a comprehensive list of my publications on my [Google Scholar](https://scholar.google.com/citations?user=fV83bm8AAAAJ&hl=en&oi=ao).
 
