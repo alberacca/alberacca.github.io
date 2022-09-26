@@ -27,7 +27,7 @@ We test the networks on the chaotic Lorenz system.
 
 
 
-## References
+## References 
 
 - [1] Jaeger, H. http://www.scholarpedia.org/w/index.php?title=Echo_state_network
 
