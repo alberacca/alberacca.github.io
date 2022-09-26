@@ -7,7 +7,7 @@ author_profile: true
 
 ## Selected Publications
 
-You can find a comprehensive list of my publications on my [Google Scholar](https://scholar.google.com/citations?user=fV83bm8AAAAJ&hl=en&oi=ao).
+You can find a comprehensive list of my publications on [Google Scholar](https://scholar.google.com/citations?user=fV83bm8AAAAJ&hl=en&oi=ao).
 
 
 __A. Racca__, L. Magri  
