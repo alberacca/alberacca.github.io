@@ -25,7 +25,7 @@ We test the networks on the chaotic Lorenz system.
 
 In chaotic systems, the dynamics are predictable only for finite times. This happens because infinitesimal errors in the prediction of the system increase in time with an average exponential rate given by the (positive) largest Lyapunov exponent of the system.
 
-The dynamics of infinitesimal errors, namely tangent space dynamics, are defined by the entire set of Lyapunov exponents, the Lyapunov spectrum. Through the Lyapunov spectrum, the dimensionality of the solution, which is typically significantly smaller than the number of degrees of freedom can be estimated by the Kaplan-Yorke conjecture [5]. 
+The dynamics of infinitesimal errors are characterized by the entire set of Lyapunov exponents, the Lyapunov spectrum. Through the Lyapunov spectrum, the dimensionality of the solution, which is typically significantly smaller than the number of degrees of freedom of the system, can be estimated by the Kaplan-Yorke conjecture [5]. 
 
 In this [tutorial](https://github.com/aracca994/Lyapunov-spectrum), we provide a Jacobian-free algorithm to compute the n largest Lyapunov exponents and the Kaplan-Yorke dimension of dynamical systems. 
 
