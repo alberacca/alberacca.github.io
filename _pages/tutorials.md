@@ -8,7 +8,7 @@ author_profile: true
 ## Echo State Networks
 
 <p align='center'>
-<img src="../files/ESN_loop.png" style="width:600px">
+<img src="../files/ESN_loop.png" style="height:300px">
 </p>
 
 Echo State Networks (ESNs) are a type of recurrent neural network, whose training consists in solving a linear system and does not require gradient descent [1,2]. ESNs have been shown to time-accurately predict dynamical systems with similar accuracy to other reccurrent neural networks, such as LSTMs and GRUs [3]. 
@@ -24,7 +24,7 @@ We test the networks on the chaotic Lorenz system.
 ## Computation of the Lyapunov spectrum and Kaplan-Yorke dimension
 
 <p align='center'>
-<img src="../files/lorenz.gif" style="height:400px">
+<img src="../files/lorenz.gif" style="height:300px">
 </p>
 
 In chaotic systems, the dynamics are predictable only for finite times. This happens because infinitesimal errors in the prediction of the system increase in time with an average exponential rate given by the (positive) largest Lyapunov exponent of the system.  
