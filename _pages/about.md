@@ -19,9 +19,7 @@ My research consists in predicting the time evolution of dynamical systems with 
   * Bayesian Optimization for the selection of hyperparameters
   * Physics-informed Echo State Networks to infer unmeasured states
   * Prediction and control of chaotic flows with Recurrent Neural Networks
- 
  <br/>
-
 * 2018-2019: Research Assistant, University of Illinois at Urbana-Champaign
   * Numerical algorithms for hypersonic flows simulations 
   * Uncertainty quantification of chemical rates with Gaussian Processes
