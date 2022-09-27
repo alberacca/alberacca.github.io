@@ -23,6 +23,10 @@ We test the networks on the chaotic Lorenz system.
 
 ## Computation of the Lyapunov spectrum and Kaplan-Yorke dimension
 
+<p align='center'>
+<img src="../files/lorenz.gif" style="height:400px">
+</p>
+
 In chaotic systems, the dynamics are predictable only for finite times. This happens because infinitesimal errors in the prediction of the system increase in time with an average exponential rate given by the (positive) largest Lyapunov exponent of the system.  
 
 The dynamics of infinitesimal errors are characterized by the entire set of Lyapunov exponents, the Lyapunov spectrum. Through the Lyapunov spectrum, the dimensionality of the solution, which is typically significantly smaller than the number of degrees of freedom of the system, can be estimated by the Kaplan-Yorke conjecture [5]. 
