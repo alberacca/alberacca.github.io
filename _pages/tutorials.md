@@ -42,6 +42,6 @@ In this [tutorial](https://github.com/alberacca/Lyapunov-spectrum), we provide a
 
 - [3] P.R. Vlachas et al., Backpropagation algorithms and Reservoir Computing in Recurrent Neural Networks for the forecasting of complex spatiotemporal dynamics, Neural Networks (2020).
 
-- [4] A. Racca & L. Magri, 2021 Robust Optimization and Validation of Echo State Networks for learning chaotic dynamics, Neural Networks (2021).
+- [4] A. Racca & L. Magri, Robust Optimization and Validation of Echo State Networks for learning chaotic dynamics, Neural Networks (2021).
 
 - [5] J. Kaplan & J. Yorke, Chaotic behavior of multidimensional difference equations, Lecture Notes in Mathematics (1979).
