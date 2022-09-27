@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Alberto Racca"
-  avatar           : "profile.png"
+  avatar           : "./files/profile_pic.png"
   bio              : "PhD in Machine Learning, University of Cambridge."
   location         : "Cambridge, UK."
   employer         :
