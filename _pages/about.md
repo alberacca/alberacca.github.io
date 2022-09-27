@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate at the Department of Engineering in the University of Cambridge. My research consists in predicting the time evolution of chaotic dynamical systems with Recurrent Neural Networks.
+I'm a PhD candidate at the Department of Engineering in the University of Cambridge. My research consists in predicting the time evolution of dynamical systems with Recurrent Neural Networks.
 
-### Work experience
+### Research experience
 ***
 
 * 2019-2023: PhD student
