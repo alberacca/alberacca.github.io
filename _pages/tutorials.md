@@ -21,7 +21,7 @@ In this [tutorial](https://github.com/alberacca/Echo-State-Networks), we provide
 We test the networks on the chaotic Lorenz system.  
 
 
-## Computation of the Lyapunov spectrum and Kaplan-Yorke dimension
+## Lyapunov spectrum and Kaplan-Yorke dimension
 
 <p align='center'>
 <img src="../files/lorenz.gif" style="height:300px">
