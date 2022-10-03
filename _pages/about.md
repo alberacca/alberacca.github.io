@@ -9,9 +9,10 @@ redirect_from:
 ---
 
 I'm a PhD candidate at the Department of Engineering in the University of Cambridge. 
+My research consists of predicting the time evolution of dynamical systems with Recurrent Neural Networks.
 
-My research consists in predicting the time evolution of dynamical systems with Recurrent Neural Networks.
 
+<!--
 ### Research experience
 ***
 
@@ -23,7 +24,7 @@ My research consists in predicting the time evolution of dynamical systems with 
 * 2018-2019: Research Assistant, University of Illinois at Urbana-Champaign
   * Numerical algorithms for hypersonic flows simulations 
   * Uncertainty quantification of chemical rates with Gaussian Processes
-
+-->
 
 ### Education
 ***
