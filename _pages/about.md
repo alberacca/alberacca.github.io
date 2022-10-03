@@ -26,9 +26,8 @@ __Background.__ During my studies in space engineering, I became fascinated by m
   * Prediction and control of extreme events with __Recurrent Neural Networks__
   * Reduced-order modeling with __Convolutional Autoencoders__
   * __Probabilistic data-assimilation__ via machine learning
-
-<br/>
- 
+<!-- <br/>
+  -->
 * 2018-2019: Research Assistant, University of Illinois at Urbana-Champaign
   * Numerical algorithms for hypersonic flows simulations 
   * Uncertainty quantification of reaction rates with __Gaussian Processes__
