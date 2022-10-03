@@ -9,22 +9,26 @@ redirect_from:
 ---
 
 I'm a PhD candidate at the Department of Engineering in the University of Cambridge. 
+
 My research consists of predicting the time evolution of dynamical systems with Recurrent Neural Networks.
 
+During my studies in space engineering, I became fascinated by mathematical modelling as a means to describe and operate on the real world. This passion eventually lead me to pursue research in fluid dynamics at the University of Illinois, where I worked on deveolping numerical algorithms for the simulation of hypersonic flows, a challenging topic that made me appreciate the necessity of inter-disciplinary cooperation when dealing with complex phenomena. At the same time, fellow graduate students introduced me to the growing field of machine learning, whose versatility and potential in several engineering applications deeply impressed me. The joint interest in machine learning and multidisciplinary collaboration brought me to my current PhD here in Cambridge, where I develop machine learning architectures that couple known physical knowledge and data. My research focuses on dynamical systems, with applications that range from fluid dynamics, to climate science and epidemiology. 
 
-<!--
-### Research experience
+
+### Experience
 ***
 
 * 2019-2023: PhD student,University of Cambridge 
   * Bayesian Optimization for the selection of hyperparameters
   * Physics-informed Echo State Networks to infer unmeasured states
   * Prediction and control of chaotic flows with Recurrent Neural Networks
+  * Reduced-order modeling with convolutional autoencoders
+  * Probabilistic data-assimilation via machine learning
  <br/>
 * 2018-2019: Research Assistant, University of Illinois at Urbana-Champaign
   * Numerical algorithms for hypersonic flows simulations 
   * Uncertainty quantification of chemical rates with Gaussian Processes
--->
+
 
 ### Education
 ***
