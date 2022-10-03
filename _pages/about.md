@@ -12,7 +12,9 @@ I'm a PhD candidate at the Department of Engineering in the University of Cambri
 
 My research consists of predicting the time evolution of dynamical systems with Recurrent Neural Networks.
 
-During my studies in space engineering, I became fascinated by mathematical modelling as a means to describe and operate on the real world. This passion lead me to pursue research in fluid dynamics at the University of Illinois, where I developed numerical algorithms for the simulation of hypersonic flows, a challenging topic that made me appreciate the necessity of inter-disciplinary cooperation when dealing with complex phenomena. At the same time, fellow graduate students introduced me to the growing field of machine learning, whose versatility and potential in several engineering applications deeply impressed me. The joint interest in machine learning and multidisciplinary collaboration brought me to my current PhD here in Cambridge, where I develop machine learning architectures that couple known physical knowledge and data. My research focuses on dynamical systems, with applications that range from fluid dynamics, to climate science and epidemiology. 
+During my studies in space engineering, I became fascinated by mathematical modelling as a means to describe and operate on the real world. This passion lead me to pursue research in fluid dynamics at the University of Illinois, where I developed numerical algorithms for the simulation of hypersonic flows, a challenging topic that made me appreciate the necessity of inter-disciplinary cooperation when dealing with complex phenomena. At the same time, fellow graduate students introduced me to the growing field of machine learning, whose versatility and potential in several engineering applications deeply impressed me. The joint interest in machine learning and multidisciplinary collaboration brought me to my current PhD here in Cambridge, where I develop machine learning architectures that couple known physical knowledge and data. 
+
+<!--My research focuses on dynamical systems, with applications that range from fluid dynamics, to climate science and epidemiology.-->
 
 
 ### Experience
