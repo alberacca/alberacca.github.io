@@ -11,7 +11,7 @@ author_profile: true
 <img src="../files/ESN_loop.png" style="height:300px">
 </p>
 
-Echo State Networks (ESNs) are a type of recurrent neural network, whose training consists in solving a linear system and does not require gradient descent [1,2]. ESNs have been shown to time-accurately predict dynamical systems with similar accuracy to other recurrent neural networks, such as LSTMs and GRUs [3]. 
+Echo State Networks (ESNs) are a type of recurrent neural network, whose training consists of solving a linear system and does not require gradient descent [1,2]. ESNs have been shown to time-accurately predict dynamical systems with similar accuracy to other recurrent neural networks, such as LSTMs and GRUs [3]. 
 
 Training ESNs is straightforward, but their performance is highly sensitive to the selection of hyperparameters.
 In this [tutorial](https://github.com/alberacca/Echo-State-Networks), we provide a self-containted implementation of echo state networks with
