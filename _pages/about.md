@@ -20,7 +20,7 @@ __Background.__ During my studies in space engineering, I became fascinated by m
 ### Experience
 ***
 
-* 2019-2023: PhD student,University of Cambridge 
+* 2019-2023: PhD student, University of Cambridge 
   * __Bayesian Optimization__ for the selection of hyperparameters
   * __Physics-informed Echo State Networks__ to infer unmeasured states
   * Prediction and control of extreme events with __Recurrent Neural Networks__
