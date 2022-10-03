@@ -25,8 +25,9 @@ During my studies in space engineering, I became fascinated by mathematical mode
   * __Physics-informed Echo State Networks__ to infer unmeasured states
   * Prediction and control of chaotic flows with __Recurrent Neural Networks__
   * Reduced-order modeling with __Convolutional Autoencoders__
-  * __Probabilistic data-assimilation__ via machine learning
+  * Probabilistic data-assimilation via machine learning
  <br/>
+ 
 * 2018-2019: Research Assistant, University of Illinois at Urbana-Champaign
   * Numerical algorithms for hypersonic flows simulations 
   * Uncertainty quantification of chemical rates with __Gaussian Processes__
