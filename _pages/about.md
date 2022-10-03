@@ -30,7 +30,7 @@ My research consists of predicting the time evolution of dynamical systems with 
 ***
 * B.S. in Aerospace Engineering, Universita' di Pisa, 2016
 * M.S. in Space Engineering, Universita' di Pisa, 2019
-* PhD in Machine Learning, University of Cambridge, 2023
+* Ph.D. in Machine Learning, University of Cambridge, 2023
 
 
 
