@@ -30,7 +30,7 @@ __Background.__ During my studies in space engineering, I became fascinated by m
  
 * 2018-2019: Research Assistant, University of Illinois at Urbana-Champaign
   * Numerical algorithms for hypersonic flows simulations 
-  * Uncertainty quantification of chemical rates with __Gaussian Processes__
+  * Uncertainty quantification of reaction rates with __Gaussian Processes__
 
 
 ### Education
