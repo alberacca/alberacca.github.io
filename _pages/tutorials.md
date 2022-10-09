@@ -18,7 +18,7 @@ In this [tutorial](https://github.com/alberacca/Echo-State-Networks), we provide
  * an easy-to-follow and computationally efficient implementation of hyperparameter selection through Bayesian Optimization [4],
  * sparse matrix multiplication to improve computation efficiency and lower memory requirements.
 
-We test the networks on the chaotic Lorenz system, and show that a network trained in 30 seconds can predict the system for more than 10 Lyapunov times (a Lyapunov time is the inverse of the largest Lyapunov exponent). 
+We test the networks on the chaotic Lorenz system, and show that a network trained in 30 seconds can predict the system for more than 10 Lyapunov times (the Lyapunov time is the inverse of the largest Lyapunov exponent). 
 
 
 ## Lyapunov spectrum and Kaplan-Yorke dimension
