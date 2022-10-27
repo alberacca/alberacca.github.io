@@ -10,9 +10,11 @@ redirect_from:
 
 I'm a PhD candidate at the Department of Engineering in the University of Cambridge. 
 
-My research consists of predicting the time evolution of dynamical systems with Recurrent Neural Networks.
+My research consists of merging recurrent neural networks, convolutional autoencoders, Bayesian optimization and physical knowledge to predict the future time evolution of dynamical systems.
 
-__Background.__ During my studies in space engineering, I became fascinated by mathematical modelling as a tool to operate on the real world. This passion lead me to a research position at the University of Illinois, where I worked on numerical algorithms for the simulation of hypersonic flows. At the same time, fellow graduate students introduced me to the growing field of machine learning, whose versatility in several engineering applications deeply impressed me. This experience brought me to my current PhD in Cambridge, where I develop machine learning architectures that couple known physical knowledge and data. 
+__Background.__ During my studies in space engineering, the more I studied, the more I became fascinated by mathematical modelling as a tool to operate on the real world. This fascination lead me to a research position at the University of Illinois, where fellow graduate students introduced me to the growing field of machine learning, whose potential deeply impressed me. 
+To me, machine learning offered a new approach, complementary to existing knowledge, with seemingly infinite engineering applications. 
+This vision and passion for machine learning brought me to my current PhD in Cambridge, where I develop architecture for the temporal prediction of dynamical systems.
 
 <!--My research focuses on dynamical systems, with applications that range from fluid dynamics, to climate science and epidemiology.-->
 
