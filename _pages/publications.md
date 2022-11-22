@@ -11,7 +11,7 @@ You can find a comprehensive list of my publications on [Google Scholar](https:/
 
 __A. Racca__, N.A.K. Doan, L. Magri  
 Modelling spatiotemporal turbulent dynamics with the convolutional autoencoder echo state network, _Journal of Fluid Mechanics_, under review.  
-Preprint: [arXiv](https://arxiv.org/abs/2204.11682).
+Preprint: [arXiv](https://arxiv.org/abs/2211.11379).
 
 __A. Racca__, L. Magri  
 Data-Driven Prediction and control of extreme events in a chaotic flow, _Physical Review Fluids_, 2022.  
