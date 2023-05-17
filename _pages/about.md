@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate at the Department of Engineering in the University of Cambridge. 
+I'm a Schmidt Reaserch Fellow at the I-X Centre for AI in Science, Imperial College London. Previously, I obtained my PhD from the University of Cambridge. 
 
 My research consists of merging recurrent neural networks, convolutional autoencoders, Bayesian optimization and physical knowledge to predict the future time evolution of dynamical systems.
 
@@ -21,10 +21,13 @@ This vision and passion brought me to my current PhD in Cambridge, where I devel
 ### Experience
 ***
 
-* 2019-2023: PhD Student, University of Cambridge 
+* 2023- : Schmdit Research Fellow, Imperial College London, I-X centre for AI in Science
+  * __Reinforcement Learning__ and __Model Predictive Control__ for the control of extreme events
+
+* 2019-2023: PhD Candidate, University of Cambridge, Department of Engineering 
   * __Bayesian Optimization__ for the selection of hyperparameters
   * __Physics-informed Echo State Networks__ to infer unmeasured states
-  * Prediction and control of extreme events with __Recurrent Neural Networks__
+  * Prediction of extreme events with __Recurrent Neural Networks__
   * Reduced-order modeling with __Convolutional Autoencoders__
   * Machine learning for __Probabilistic data-assimilation__
 <!-- <br/>
