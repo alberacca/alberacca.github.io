@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Alberto Racca"
-description              : &description "PhD in Machine Learning, University of Cambridge"
+description              : &description "Schmidt Research Fellow, Imperial College London"
 url                      : https://alberacca.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alberacca.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Alberto Racca"
   avatar           : "profile_pic.jpg"
-  bio              : "PhD in Machine Learning, University of Cambridge."
+  bio              : "Schmidt Research Fellow, Imperial College London."
   location         : "Cambridge, UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
