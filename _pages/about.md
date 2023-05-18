@@ -13,7 +13,7 @@ I'm a Schmidt Reaserch Fellow at the I-X Centre for AI in Science, Imperial Coll
 My research consists of merging recurrent neural networks, convolutional autoencoders, Bayesian optimization, reinforcement learning and physical knowledge to predict and control the future time evolution of dynamical systems.
 
 __Background.__ During my studies in space engineering, I came to deeply appreciate mathematical modelling as a tool to operate on the real world. Later on, when fellow graduate students introduced me to the growing field of machine learning, its potential and versatility impressed me to the same extent. To me, machine learning offered a new approach, complementary to existing knowledge, with seemingly infinite engineering applications. 
-This vision and passion brought me to my current research, where I develop machine learning architectures for the temporal prediction and control of turbulent (chaotic) fluid dynamics from a dynamical systems perspective.
+This vision and passion brought me to my current research, where I develop machine learning architectures for the temporal prediction and control of turbulent (chaotic) fluid dynamics from a dynamical systems perspective. 
 
 <!--My research focuses on dynamical systems, with applications that range from fluid dynamics, to climate science and epidemiology.-->
 
