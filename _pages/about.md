@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Schmidt Reaserch Fellow at the I-X Centre for AI in Science, Imperial College London. Previously, I obtained my PhD from the University of Cambridge. 
+I'm an Eric and Wendy Schmidt Postdoctoral Reaserch Fellow at the I-X Centre for AI in Science, Imperial College London. 
+Previously, I obtained my PhD from the University of Cambridge. 
 
 My research consists of merging recurrent neural networks, convolutional autoencoders, Bayesian optimization, reinforcement learning and physical knowledge to predict and control the future time evolution of dynamical systems.
 
