@@ -11,7 +11,7 @@ You can find a comprehensive list of my publications on [Google Scholar](https:/
 
 __A. Racca__, L. Magri  
 Control-aware echo state networks (Ca-ESN) for the suppression of extreme events, _NeurIPS - ML and Physical Sciences Workshop_, 2024.  
-Preprint: [arXiv](https://arxiv.org/abs/2101.00002), repository: [GitHub](https://github.com/MagriLab/API-ESN).
+Preprint: [arXiv](https://arxiv.org/abs/2308.03095).
 
 __A. Racca__, N.A.K. Doan, L. Magri  
 Modelling spatiotemporal turbulent dynamics with the convolutional autoencoder echo state network, _Journal of Fluid Mechanics_, 2023.  
