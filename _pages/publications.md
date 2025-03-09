@@ -23,7 +23,7 @@ Preprint: [arXiv](https://arxiv.org/abs/2204.11682)
 
 __A. Racca__, L. Magri  
 Robust Optimization and Validation of Echo State Networks for learning chaotic dynamics, _Neural Networks_, 2021.  
-Preprint: [arXiv](https://arxiv.org/abs/2103.03174v2), repository: [GitHub](https://github.com/MagriLab/Robust-Validation-ESN).
+Preprint: [arXiv](https://arxiv.org/abs/2103.03174v2).
 
 <!---
 {% include base_path %} 
