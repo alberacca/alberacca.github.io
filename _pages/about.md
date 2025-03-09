@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an ML researcher at Daedalean, working on certifiable computer vision for autonomous flight in civial aviation.
+I'm an ML researcher at Daedalean, working on certifiable computer vision for autonomous flight in civil aviation.
 Previously, I was a Schmidt Postdoctoral Reaserch Fellow AI at Imperial College London, and obtained my PhD from the University of Cambridge. 
 
 My research consists of merging recurrent neural networks, convolutional autoencoders, Bayesian optimization, reinforcement learning and physical knowledge to predict and control the future time evolution of dynamical systems.
