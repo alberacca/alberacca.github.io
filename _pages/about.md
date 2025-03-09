@@ -23,7 +23,7 @@ This passion brought me to research, where I developed machine learning architec
 ***
 
 * 2023- : ML Researcher, Daedalean
-  *__Computer Vision__ for autonomous flight
+  * __Computer Vision__ for autonomous flight
 
 * 2023-2024 : Schmdit Research Fellow, Imperial College London, I-X centre for AI in Science
   * __Reinforcement Learning__ and __Model Predictive Control__ for the control of extreme events
